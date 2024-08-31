@@ -16,8 +16,9 @@ This project is a simple clone of Spotify, a popular music streaming service. It
 - User interface similar to Spotify
 - Basic controls for play, pause, and navigation
 
-## Installation
+## Contributing
+- If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/spotify-clone.git
+## Contact
+- If you have any questions, feel free to contact me at your.bahauddinrafiuddin@gmail.com.
+
